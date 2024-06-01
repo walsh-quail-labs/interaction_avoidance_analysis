@@ -1,0 +1,6 @@
+input_pano_folder,...
+input_cell_segmentation_folder,.../allRegionIndices
+input_cell_type_folder,.../MATData
+input_keyPatientID,.../keyPatientID.xlsx
+group_PatientID,.../fname.xlsx
+allCellTypeLocation,...
